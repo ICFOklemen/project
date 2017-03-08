@@ -12,6 +12,8 @@ klemen add new request
 master is adding new line 
 
 
-added by slave
+this si added by master
 
+
+added by slave
 
